@@ -11,8 +11,7 @@ Do your own research and come up with your findings.
 
 # Dataset: 
 You can find the dataset at the given link:
-https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp=s
-haring
+https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp=sharing
 
 # Tools Used:
 <img src="https://github.com/Adithya554/Amazon-Sales-Data-analysis/assets/137275981/0f48c863-31dd-4f08-8563-dd7e474d77e8" width="100" height="100">
